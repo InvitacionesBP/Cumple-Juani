@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Amatic SC', cursive;
 }
 
 body {
@@ -444,12 +445,12 @@ img#nombre {
     margin-left: -8%;
 }
 
-.card .switched{
+.card .switched {
     transform: rotateY(180deg);
     margin-left: 38%;
 }
 
-.card .ciervo{
+.card .ciervo {
     position: absolute;
     width: 40%;
     margin: 0;
@@ -458,20 +459,20 @@ img#nombre {
     transform: rotateY(180deg);
 }
 
-.card .zorro{
+.card .zorro {
     position: absolute;
     width: 50%;
     margin: -45% 0 0 0;
     left: 25%;
 }
 
-.card-content{
+.card-content {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.card-content > p{
+.card-content>p {
     color: #661919;
     width: 80%;
     margin: auto;
@@ -480,7 +481,7 @@ img#nombre {
     text-align: center;
 }
 
-.card-content > button{
+.card-content>button {
     background-color: #70583E;
     color: white;
     border-radius: 5px;
@@ -492,18 +493,18 @@ img#nombre {
     display: flex;
 }
 
-.card-content > button > a{
+.card-content>button>a {
     text-decoration: none;
     color: white;
 }
 
-svg{
+svg {
     fill: white;
-    width:20px;
+    width: 20px;
     margin-right: 10px;
 }
 
-footer{
+footer {
     background-color: #70583E;
     color: white;
     padding: 10px 0;
@@ -512,9 +513,6 @@ footer{
     display: flex;
 }
 
-footer > strong{
+footer>strong {
     margin: auto;
 }
-
-
-
