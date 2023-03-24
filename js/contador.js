@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
 
-    var flipdown = new FlipDown(1681052400,{
+    var flipdown = new FlipDown(1681056000,{
       headings:["Dias", "Horas", "Minutos", "Segundos"]})
   
       // Start the countdown
